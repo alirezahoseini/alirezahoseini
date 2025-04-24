@@ -83,10 +83,13 @@
   <h3>
     Portfolio
   </h3>
-  <div style="dispaly: flex; flex-direction: column; gap: 10px;">
-    <a href="https://github.com/alirezahoseini/portfolio">See Repository</a>  
-    <a href="https://a-hosseini.ir/en">See Live!</a>  
-  </div>
+  <a href="https://github.com/alirezahoseini/portfolio">
+    <img src="https://github.com/alirezahoseini/alirezahoseini/blob/main/see.svg" alt="Go repo!" width="140px"/>
+  </a> 
+  <span>     </span>
+  <a href="https://a-hosseini.ir/en">
+    <img src="https://github.com/alirezahoseini/alirezahoseini/blob/main/live.svg" alt="Go live!" width="92px" />
+  </a>
   <p>
     This is my personal portfolio and one of the most important projects I’ve ever worked on. From the beginning, my goal was to create a website that works perfectly for years — both       in terms of performance and a clean, modern... <a href="https://a-hosseini.ir/en/projects/portfolio">Read More</a>
   </p>
