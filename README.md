@@ -104,5 +104,34 @@
     <li>React Hook Form</li>
     <li>Farmer Motion</li>
   </ul>
-  
+</div>
+
+###
+<h2 align="left"></h2>
+
+<div align="left">
+  <a href="https://github.com/alirezahoseini/portfolio" target="_blank">
+    <img src="https://s6.uupload.ir/files/hero_0h5e.png" alt="next movie"  />
+  </a>
+  <h3>
+    Next Movie
+  </h3>
+  <a href="https://github.com/alirezahoseini/next-movie">
+    <img src="https://github.com/alirezahoseini/alirezahoseini/blob/main/see.svg" alt="Go repo!" width="140px"/>
+  </a> 
+  <a href="https://nextmovie.a-hosseini.ir/">
+    <img src="https://github.com/alirezahoseini/alirezahoseini/blob/main/live.svg" alt="Go live!" width="92px" />
+  </a>
+  <p>
+    In this app, you can explore the latest movies and TV series and get complete information about them. There's also a search feature       to find your favorite titles. This project is built using Next.js version 14 and Tailwind... <a href="https://a-hosseini.ir/en/projects/nextmovie">Read More</a>
+  </p>
+  <h4>Techs:</h4>
+  <ul>
+    <li>Next.js</li>
+    <li>Javascript</li>
+    <li>Tailwind</li>
+    <li>SWR</li>
+    <li>TMDB</li>
+    <li>Axios</li>
+  </ul>
 </div>
