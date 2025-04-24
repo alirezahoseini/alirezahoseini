@@ -50,19 +50,6 @@
   - Website: [a-hosseini.ir](https://a-hosseini.ir)
   - Email: [ahossieni0161@gmail.com](mailto:ahossieni0161@gmail.com)
 
-
-###
-
-<h2 align="left">Status</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezahoseini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=alirezahoseini&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezahoseini&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <h2 align="left">Socials</h2>
@@ -82,7 +69,37 @@
 </div>
 
 ###
+###
+</br>
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Selected Projects!</h2>
 
 ###
+
+<div align="left">
+  <a href="https://github.com/alirezahoseini/portfolio" target="_blank">
+    <img src="https://s6.uupload.ir/files/hero_d5dq.png" alt="Portfolio"  />
+  </a>
+  <h3>
+    Portfolio
+  </h3>
+  <div style="dispaly: flex; flex-direction: column; gap: 10px;">
+    <a href="https://github.com/alirezahoseini/portfolio">See Repository</a>  
+    <a href="https://a-hosseini.ir/en">See Live!</a>  
+  </div>
+  <p>
+    This is my personal portfolio and one of the most important projects I’ve ever worked on. From the beginning, my goal was to create a website that works perfectly for years — both       in terms of performance and a clean, modern... <a href="https://a-hosseini.ir/en/projects/portfolio">Read More</a>
+  </p>
+  <h4>Techs:</h4>
+  <ul>
+    <li>Next.js</li>
+    <li>TypeScript</li>
+    <li>Next-intl</li>
+    <li>Tailwind</li>
+    <li>React Query</li>
+    <li>Shadcn</li>
+    <li>React Hook Form</li>
+    <li>Farmer Motion</li>
+  </ul>
+  
+</div>
