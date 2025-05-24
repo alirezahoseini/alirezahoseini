@@ -119,7 +119,7 @@
   <a href="https://github.com/alirezahoseini/next-movie">
     <img src="https://github.com/alirezahoseini/alirezahoseini/blob/main/see.svg" alt="Go repo!" width="140px"/>
   </a> 
-  <a href="https://nextmovie.a-hosseini.ir/">
+  <a href="https://next-movie-dun.vercel.app/">
     <img src="https://github.com/alirezahoseini/alirezahoseini/blob/main/live.svg" alt="Go live!" width="92px" />
   </a>
   <p>
